@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CyberProjekt WaterMark Wordpress Plugin\n"
+"POT-Creation-Date: 2014-07-14 12:34+0100\n"
+"PO-Revision-Date: 2014-07-14 12:34+0100\n"
+"Last-Translator: Jacek Głogosz <jacek@cyberprojekt.pl>\n"
+"Language-Team: Cyberprojekt <jacek@cyberprojekt.pl>\n"
+"Language: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cyberprojekt_image_watermark.php:80
+#: ../cyberprojekt_image_watermark.php:107
+msgid "Setup saved"
+msgstr "Zapisano"
+
+#: ../cyberprojekt_image_watermark.php:142
+msgid "Wrong preview image"
+msgstr "Nie poprawny plik podglądu"
+
+#: ../cyberprojekt_image_watermark.php:257
+msgid "Error during file remove! '%' you will have to remove it manualy"
+msgstr "Błąd podczas usuwania pliku! '%' musisz usunąć go manualnie."
+
+#: ../cyberprojekt_image_watermark.php:269
+msgid "Restore original file"
+msgstr "Odtwórz plik oryginalny"
+
+#: ../cyberprojekt_image_watermark.php:284
+msgid "Error during restoring"
+msgstr "Wystąpił błąd podczas odtwarzania"
+
+#: ../cyberprojekt_image_watermark.php:287
+msgid "Original image does not exists."
+msgstr "Oryginalny plik nie istnieje"
+
+#: ../cyberprojekt_image_watermark.php:302
+msgid "Original image is the same as modified"
+msgstr "Plik oryginalny jest identyczny ze zmodyfikowanym"
+
+#: ../cyberprojekt_image_watermark.php:335
+msgid "Watermark image"
+msgstr "Dodaj znak wodny"
+
+#: ../cyberprojekt_image_watermark.php:348 ../libs/class-image-manage.php:20
+msgid "Wrong path"
+msgstr "Nie poprawna ścieżka"
+
+#: ../libs/class-image-watermark.php:118
+msgid "Wrong mime"
+msgstr "Nie poprawny typ mime"
+
+#: ../libs/class-image-watermark.php:229
+msgid "Error during making backup"
+msgstr "Wystąpił błąd podczas tworzenia kopii zapasowej"
+
+#: ../libs/class-image-watermark.php:300
+msgid "Wrong image format"
+msgstr "Nie poprawny format obrazka"
+
+#: ../libs/class-image-watermark.php:424
+msgid "Wrong type"
+msgstr "Nie poprawny typ"
+
+#: ../libs/class-image-watermark.php:427
+msgid "Error while saving image"
+msgstr "Wystąpił błąd w trakcie zapisywania obrazka"
+
+#: ../libs/class-image-manage.php:43 ../libs/class-image-manage.php:45
+#: ../libs/class-image-manage.php:47 ../libs/class-image-manage.php:49
+#: ../libs/class-image-manage.php:51 ../libs/class-image-manage.php:55
+msgid "There was an error during creation of image"
+msgstr "Wystąpił błąd podczas tworzenie obrazka"
+
+#: ../libs/class-image-manage.php:70 ../libs/class-image-manage.php:72
+#: ../libs/class-image-manage.php:76 ../libs/class-image-manage.php:78
+msgid "There was an error during image resize"
+msgstr "Wystąpił błąd podczas zmiany rozmiaru obrazka"
+
+#: ../libs/class-model.php:262
+msgid "Wrong execution!"
+msgstr "Nie poprawne wywołanie!"
+
+#: ../libs/class-view-form-elements.php:165
+#, php-format
+msgid "String length is not valid %s"
+msgstr "Ilość znaków nie prawidłowa %s"
+
+#: ../libs/class-view-form-elements.php:172
+#, php-format
+msgid "%s is not integer"
+msgstr "%s nie jest liczbą całkowitą"
+
+#: ../libs/class-view-form-elements.php:175
+#, php-format
+msgid "%s is outside borders"
+msgstr "%s jest poza granicami"
+
+#: ../libs/class-view-form-elements.php:182
+#, php-format
+msgid "%s is not valid color"
+msgstr "%s nie jest poprawnym kolorem"
+
+#: ../libs/class-view-form-elements.php:188
+msgid "File does not exists"
+msgstr "Plik nie istnieje"
+
+#: ../libs/class-view-form-elements.php:193
+#, php-format
+msgid "Validator %s does not exists"
+msgstr "Walidator %s nie istnieje"
+
+#: ../libs/class-view-form-elements.php:256
+msgid "Value is required!"
+msgstr "Wartość jest wymagana"
+
+#: ../libs/class-view-form-elements.php:262
+msgid "Not found in haystack"
+msgstr "Nie znaleziono wartości w dozwolonym zbiorze"
+
+#: ../libs/class-view-form-elements.php:345 ../libs/class-view-admin.php:73
+msgid "Choose"
+msgstr "Wybierz"
+
+#: ../libs/class-logic-admin-form.php:23
+msgid "Automatic watermark"
+msgstr "Automatyczny znak wodny"
+
+#: ../libs/class-logic-admin-form.php:23
+msgid "Enable automatic watermarks"
+msgstr "Zezwól na automatyczne dodanie znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:24
+msgid "Preserve Original Image"
+msgstr "Zachowuj pliki oryginalne"
+
+#: ../libs/class-logic-admin-form.php:24
+msgid "Enable preserving (copying) original file"
+msgstr "Uruchom zachowanie (kopiowanie) pliku oryginalnego"
+
+#: ../libs/class-logic-admin-form.php:26
+msgid "Text and image"
+msgstr "Tekst i obraz"
+
+#: ../libs/class-logic-admin-form.php:27
+msgid "Text only"
+msgstr "Tylko tekst"
+
+#: ../libs/class-logic-admin-form.php:28
+msgid "Image only"
+msgstr "Tylko obraz"
+
+#: ../libs/class-logic-admin-form.php:29
+msgid "Watermark type"
+msgstr "Typ znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:29
+msgid "Select a watermark type"
+msgstr "Wybierz typ znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:30
+msgid "Image sizes type"
+msgstr "Typy wielkości obrazków"
+
+#: ../libs/class-logic-admin-form.php:30
+msgid "Set type of size measure to enable watermarks"
+msgstr "Wybierz typ wielkości obrazków do znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:31
+msgid "Image sizes"
+msgstr "Wielkości obrazków"
+
+#: ../libs/class-logic-admin-form.php:31
+msgid "Enable watermarks for the selected image sizes"
+msgstr ""
+"Zezwól na automatyczne dodanie znaku wodnego dla następujących rozmiarów "
+"obrazków"
+
+#: ../libs/class-logic-admin-form.php:32
+msgid "Images min width"
+msgstr "Minimalna szerokość obrazka"
+
+#: ../libs/class-logic-admin-form.php:33
+msgid "Images min height"
+msgstr "Minimalna wysokość obrazka"
+
+#: ../libs/class-logic-admin-form.php:34
+msgid "Images max width"
+msgstr "Maksymalna szerokość obrazka"
+
+#: ../libs/class-logic-admin-form.php:35
+msgid "Images max height"
+msgstr "Maksymalna wysokość obrazka"
+
+#: ../libs/class-logic-admin-form.php:36
+msgid "Image types"
+msgstr "Typy obrazków"
+
+#: ../libs/class-logic-admin-form.php:36
+msgid "Enable automatic watermarks for the selected image types"
+msgstr ""
+"Zezwól na automatyczne dodanie znaku wodnego dla następujących typów obrazków"
+
+#: ../libs/class-logic-admin-form.php:37
+msgid "Automatic rotate"
+msgstr "Automatyczny obrót"
+
+#: ../libs/class-logic-admin-form.php:37
+msgid "Enable automatic rotate of images by exif data (only for JPG!)"
+msgstr ""
+"Zezwól na automatyczny obrót obrazków na podstawie danych exif (tylko dla "
+"JPG!)"
+
+#: ../libs/class-logic-admin-form.php:38
+msgid "Jpg image quality"
+msgstr "Jakość wynikowego JPG"
+
+#: ../libs/class-logic-admin-form.php:39
+msgid "Text font"
+msgstr "Czcionka"
+
+#: ../libs/class-logic-admin-form.php:40
+msgid "Watermark text"
+msgstr "Tekst znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:40
+msgid "Configure the text"
+msgstr "Ustaw tekst"
+
+#: ../libs/class-logic-admin-form.php:41
+msgid "Text width"
+msgstr "Szerokość tekstu"
+
+#: ../libs/class-logic-admin-form.php:41
+msgid "Configure the watermark text width (percentage)"
+msgstr "Ustaw szerokości tekstu znaku wodnego (procenty)"
+
+#: ../libs/class-logic-admin-form.php:42
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#: ../libs/class-logic-admin-form.php:42
+msgid "Configure the watermark text color (FFFFFF is white)"
+msgstr "Ustaw kolor tekstu znaku wodnego (FFFFFF to biały)"
+
+#: ../libs/class-logic-admin-form.php:43
+msgid "Text transparency"
+msgstr "Przezroczystość tekstu"
+
+#: ../libs/class-logic-admin-form.php:43
+msgid "Configure the watermark text transparency (percentage)"
+msgstr "Ustaw przezroczystość tekst znaku wodnego (procenty)"
+
+#: ../libs/class-logic-admin-form.php:44
+msgid "Text vertical position"
+msgstr "Pozycja wertykalna tekstu"
+
+#: ../libs/class-logic-admin-form.php:44 ../libs/class-logic-admin-form.php:50
+msgid "Vertical position adjustment"
+msgstr "Dostosowanie pozycji wertykalnej"
+
+#: ../libs/class-logic-admin-form.php:45
+msgid "Text horizontal position"
+msgstr "Pozycja horyzontalna tekstu"
+
+#: ../libs/class-logic-admin-form.php:45 ../libs/class-logic-admin-form.php:51
+msgid "Horizontal position adjustment."
+msgstr "Dostosowanie pozycji horyzontalnej"
+
+#: ../libs/class-logic-admin-form.php:46
+msgid "Text rotate angle"
+msgstr "Kąt obrotu tekstu"
+
+#: ../libs/class-logic-admin-form.php:46
+msgid "Text rotate angle."
+msgstr "Kąt obrotu tekstu"
+
+#: ../libs/class-logic-admin-form.php:47
+msgid "Image URL"
+msgstr "URL obrazka"
+
+#: ../libs/class-logic-admin-form.php:47
+msgid "Choose the watermark image."
+msgstr "Wybierz obrazek znaku wodnego"
+
+#: ../libs/class-logic-admin-form.php:49
+msgid "Image width"
+msgstr "Szerokość obrazka"
+
+#: ../libs/class-logic-admin-form.php:49
+msgid "Configure the watermark image width (percentage)"
+msgstr "Ustaw szerokość obrazka znaku wodnego (procenty)"
+
+#: ../libs/class-logic-admin-form.php:50
+msgid "Image vertical position"
+msgstr "Pozycja wertykalna obrazka"
+
+#: ../libs/class-logic-admin-form.php:51
+msgid "Image horizontal position"
+msgstr "Pozycja horyzontalna obrazka"
+
+#: ../libs/class-logic-admin-form.php:64
+#, php-format
+msgid "Element %s is not subclass of AbstractElement"
+msgstr "Element %s nie dziedziczy po AbstractElement"
+
+#: ../libs/class-logic-admin-form.php:122
+#, php-format
+msgid "Form element by name %s does not exists!"
+msgstr "Element %s formularza nie istnieje!"
+
+#: ../libs/class-view-ajax-upload.php:39
+msgid "There was an error during file delete"
+msgstr "Wystąpił problem w trakcie usuwania pliku"
+
+#: ../libs/class-view-ajax-upload.php:53
+msgid "Name"
+msgstr "Nazwa"
+
+#: ../libs/class-view-ajax-upload.php:53
+msgid "Preview"
+msgstr "Podgląd"
+
+#: ../libs/class-view-ajax-upload.php:53
+msgid "Options"
+msgstr "Opcje"
+
+#: ../libs/class-view-ajax-upload.php:61
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../libs/class-view-ajax-upload.php:101
+#, php-format
+msgid "Wrong file type %1$s %2$s allowed %3$s!"
+msgstr "Błędny typ pliku %1$s %2$s, dozwolone %3$s!"
+
+#: ../libs/class-view-ajax-upload.php:109
+#, php-format
+msgid "Failed to save %1$s"
+msgstr "Nie udało się zapisać %1$s"
+
+#: ../libs/class-view-ajax-upload.php:116
+msgid "No files"
+msgstr "Brak plików"
+
+#: ../libs/class-view-ajax-upload.php:119
+msgid "Successfully uploaded file"
+msgstr "Wgrania plików zakończono powodzeniem"
+
+#: ../libs/class-view-ajax-upload.php:119
+msgid "Error during upload"
+msgstr "Wystąpił błąd podczas wgrywania"
+
+#: ../libs/class-view-admin.php:34
+msgid "This paths must be writable"
+msgstr "Te ścieżki muszą być zapisywalne"
+
+#: ../libs/class-view-admin.php:66
+msgid "Wrong type, allowed: "
+msgstr "Nie poprawny typ, dozwolone:"
+
+#: ../libs/class-view-admin.php:67
+msgid "Wrong size, max allowed: "
+msgstr "Zła wielkość, maksymalnie:"
+
+#: ../libs/class-view-admin.php:68
+msgid "Other error: "
+msgstr "Inny błąd"
+
+#: ../libs/class-view-admin.php:69
+msgid "No errors"
+msgstr "Brak błędów"
+
+#: ../libs/class-view-admin.php:70
+msgid "Are you sure you want to delete this file "
+msgstr "Czy na pewno chcesz skasować ten plik"
+
+#: ../libs/class-view-admin.php:71 ../libs/class-view-admin.php:97
+msgid "Validation error"
+msgstr "Błąd walidacji"
+
+#: ../libs/class-view-admin.php:72
+msgid "Choose file for preview"
+msgstr "Wybierz plik do wygenerowania podglądu"
+
+#: ../libs/class-view-admin.php:74
+msgid "Add Watermark"
+msgstr "Dodaj znak wodny"
+
+#: ../libs/class-view-admin.php:115
+msgid "Image Watermark"
+msgstr "Image Watermark"
+
+#: ../libs/class-view-admin.php:119
+msgid "Setup"
+msgstr "Ustawienia"
+
+#: ../libs/class-view-admin.php:120
+msgid "Choose Files"
+msgstr "Wybierz pliki"
+
+#: ../libs/class-view-admin.php:151
+msgid "Refresh"
+msgstr "Odśwież"
+
+#: ../libs/class-view-admin.php:152
+msgid "Choose preview image"
+msgstr "Wybierz plik podglądu"
+
+#: ../libs/class-view-admin.php:167
+msgid "Text"
+msgstr "Tekst"
+
+#: ../libs/class-view-admin.php:171 ../libs/class-view-admin.php:183
+msgid "Manage"
+msgstr "Zarządzaj"
+
+#: ../libs/class-view-admin.php:180
+msgid "Image"
+msgstr "Obrazek"
+
+#: ../libs/class-view-admin.php:192
+msgid "Update setup"
+msgstr "Aktualizuj"
+
+#: ../libs/class-view-admin.php:202
+msgid "Wordpress Upload Dir"
+msgstr "Katalog mediów Wordpress"
+
+#: ../libs/class-view-admin.php:203
+msgid "Wordpress Plugins Directory"
+msgstr "Katalog wtyczek Wordpress"
+
+#: ../libs/class-view-admin.php:204
+msgid "Path:"
+msgstr "Ścieżka:"
+
+#~ msgid "Actual Path:"
+#~ msgstr "Ścieżka"
+
+#~ msgid "Check position"
+#~ msgstr "Sprawdź pozycję"
+
+#~ msgid "Enable enforcing proper watermark position"
+#~ msgstr "Zezwól na wymuszenie sprawdzenia poprawnej pozycji"
+
+#~ msgid "Options saved"
+#~ msgstr "Zapisano"
